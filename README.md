@@ -1,4 +1,4 @@
-# Youtube Masterclass KnexJS
+# Youtube Masterclass Knex.js
 
 Video: https://youtu.be/U7GjS3FuSkA
 
@@ -142,3 +142,7 @@ DROP DATABASE knex_test;
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
